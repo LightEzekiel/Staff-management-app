@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/circlebackground.xml" value="0.1405" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/circlebackgroundgreen.xml" value="0.1405" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/ic_add.xml" value="0.1345" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/ic_person.xml" value="0.2115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/ic_school.xml" value="0.19" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/button_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_add_staff.xml" value="0.1365" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_baseline_email.xml" value="0.1825" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.1825" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_check.xml" value="0.1425" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_delete.xml" value="0.2115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_disabled_red.xml" value="0.139" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_person1.xml" value="0.151" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_person_disabled.xml" value="0.139" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_photo_camera.xml" value="0.2115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_save_as_pdf.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_search_icon.xml" value="0.1365" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_warning.xml" value="0.141" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/login_bg.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/search_bg1.xml" value="0.2115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/view_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_checkout.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_choose_category.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_high_school_login.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_high_school_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_loading_progress_dialog.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_phsteachers.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_primary_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_primary_staff.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_primary_staff_profile.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_printing_layout.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_secondary_staff.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_secondary_staff_profile.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_teacher_profile.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_teachers.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_view_profile.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/dialog_otp.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/loading_progress_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/phs_print_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/phs_teachers_list_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/phs_teachers_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/print_layout.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/teachers_list_layout.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/update_primary_staff_layout.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/update_secondary_staff_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/menu/phs_teacher_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/menu/phs_teacher_add_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/menu/teachers_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/menu/teachers_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.141" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PhrankStars/app/src/main/res/xml/provider_paths.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/circlebackground.xml" value="0.199" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable-v24/ic_add.xml" value="0.231" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/button_bg.xml" value="0.185" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/ic_delete.xml" value="0.175" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/input_text_bg.xml" value="0.185" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/search_background.xml" value="0.185" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/search_bg1.xml" value="0.175" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/drawable/view_bg.xml" value="0.1165" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_checkout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_choose_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_primary_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_teacher_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_teachers.xml" value="0.264" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/activity_view_profile.xml" value="0.264" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/dialog_otp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/login_tab_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/sign_up_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/layout/teachers_list_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/menu/teachers_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/AndroidStudioProjects/PhrankStars/app/src/main/res/menu/teachers_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/POTENTIAL/Desktop/School Management App/app/src/main/res/layout/activity_login.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PHS.PHSTeachers">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/phs_teachers_toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:titleTextColor="@color/oxblood"
+        app:layout_constraintBottom_toTopOf="@+id/teacher_recyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        >
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/phs_teacher_recyclerView"
+            android:layout_marginTop="1dp"
+            android:paddingLeft="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/teachers_toolBar">
+        </androidx.recyclerview.widget.RecyclerView>
+        <com.github.ybq.android.spinkit.SpinKitView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/phs_spin_kit1"
+            style="@style/SpinKitView.Small.Wave"
+            android:layout_width="90dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            app:SpinKit_Color="@color/oxblood" />
+    </FrameLayout>
+
+</LinearLayout>

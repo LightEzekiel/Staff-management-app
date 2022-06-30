@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="Add"
+    android:id="@+id/add"
+    android:icon="@drawable/ic_add_staff"
+    app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/Staff_name_search"
+        android:title="Search"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search_icon"
+        app:actionViewClass="android.widget.SearchView"
+        >@color/oxblood</item>
+</menu>
